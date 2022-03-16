@@ -7,8 +7,8 @@
 # 2. Frontend Study
 
 | Week | Topic                                  | Mission                                                      |    PR     |  MeetUp  |
-| :--: | -------------------------------------- | :----------------------------------------------------------- | :-------: | :------: |
-|  1   | Web Front Basics(HTML, CSS, JS)        | [Vanilla JavaScript로 to-do list 만들기](https://github.com/24siefil/CEOS/tree/main/week1) | ~22.03.18 | 22.03.20 |
+| :--: | :-------------------------------------- | :----------------------------------------------------------- | :-------: | :------: |
+|  1   | Web Front Basics(HTML, CSS, JS)        | [Vanilla JavaScript로 to-do list 만들기](https://github.com/24siefil/CEOS/tree/main/week1) | 22.03.18 | 22.03.20 |
 |  2   | React Basic & Hooks                    |                                                              | 22.03.25 | 22.03.27 |
 |  3   | React Hooks Advanced                   |                                                              | 22.04.01 | 22.04.03 |
 |  4   | Routing & State Management             |                                                              | 22.04.08 | 22.04.10 |
