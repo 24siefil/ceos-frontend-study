@@ -6,16 +6,16 @@
 
 # 2. Frontend Study
 
-| Week | Topic                                      |    PR     |  Study   |
-| :--: | ------------------------------------------ | :-------: | :------: |
-|  1   | [Web Front Basics(HTML, CSS, JS)](https://github.com/24siefil/CEOS/tree/main/week1)        | ~22.03.18 | 22.03.20 |
-|  2   | [React Basic & Hooks](https://github.com/24siefil/CEOS/tree/main/week2)                    | ~22.03.25 | 22.03.27 |
-|  3   | [React Hooks Advanced](https://github.com/24siefil/CEOS/tree/main/week3)                   | ~22.04.01 | 22.04.03 |
-|  4   | [Routing & State Management](https://github.com/24siefil/CEOS/tree/main/week4)             | ~22.04.08 | 22.04.10 |
-|  5   | [TypeScript (2주)](https://github.com/24siefil/CEOS/tree/main/week5)                       | ~22.05.06 | 22.05.08 |
-|  6   | [미정 (2주)](https://github.com/24siefil/CEOS/tree/main/week6)                             | ~22.05.20 | 22.05.22 |
-|  7   | [API Fetching & auth (2주, 합동 스터디)](https://github.com/24siefil/CEOS/tree/main/week7) | ~22.06.24 | 22.06.26 |
-|  8   | [API 문서 발표 (합동 스터디)](https://github.com/24siefil/CEOS/tree/main/week8)            |           | 22.07.03 |
+| Week | Topic                                  | Mission                                                      |    PR     |  MeetUp  |
+| :--: | -------------------------------------- | :----------------------------------------------------------- | :-------: | :------: |
+|  1   | Web Front Basics(HTML, CSS, JS)        | [Vanilla JavaScript로 to-do list 만들기](https://github.com/24siefil/CEOS/tree/main/week1) | ~22.03.18 | 22.03.20 |
+|  2   | React Basic & Hooks                    |                                                              | 22.03.25 | 22.03.27 |
+|  3   | React Hooks Advanced                   |                                                              | 22.04.01 | 22.04.03 |
+|  4   | Routing & State Management             |                                                              | 22.04.08 | 22.04.10 |
+|  5   | TypeScript (2주)                       |                                                              | 22.05.06 | 22.05.08 |
+|  6   | 미정 (2주)                             |                                                              | 22.05.20 | 22.05.22 |
+|  7   | API Fetching & auth (2주, 합동 스터디) |                                                              | 22.06.24 | 22.06.26 |
+|  8   | API 문서 발표 (합동 스터디)            |                                                              |           | 22.07.03 |
 
 <br>
 
@@ -83,3 +83,4 @@
    - 코드리뷰 파트너는 토요일에 공개되며, 인당 2명씩 서로 코드리뷰를 주고 받습니다.
    - 코드리뷰는 꼭 파트너만 할 필요는 없습니다. 원하신다면 다른 분의 PR에 댓글을 달아 주셔도 됩니다!
    - 운영진도 코드리뷰를 해 드리고, 운영진의 코드에 의견을 달아 주시는 것도 환영입니다.
+
