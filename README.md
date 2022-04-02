@@ -6,16 +6,16 @@
 
 # 2. Frontend Study
 
-| Week | Topic                                  | Mission                                                      |    PR     |  MeetUp  |
+| Week | Topic                                  | Mission                                                      | CodeReview |  Study  |
 | :--: | :-------------------------------------- | :----------------------------------------------------------- | :-------: | :------: |
-|  1   | Web Front Basics(HTML, CSS, JS)        | [Vanilla JavaScript로 to-do list 만들기](https://github.com/24siefil/vanilla-todo-15th/tree/24siefil) | 22.03.18 | 22.03.20 |
-|  2   | React Basic & Hooks                    | [React-Todo](https://github.com/24siefil/react-todo-15th/tree/24siefil) | 22.03.25 | 22.03.27 |
-|  3   | React Hooks Advanced                   |                                                              | 22.04.01 | 22.04.03 |
-|  4   | Routing & State Management             |                                                              | 22.04.08 | 22.04.10 |
-|  5   | TypeScript (2주)                       |                                                              | 22.05.06 | 22.05.08 |
-|  6   | 미정 (2주)                             |                                                              | 22.05.20 | 22.05.22 |
-|  7   | API Fetching & auth (2주, 합동 스터디) |                                                              | 22.06.24 | 22.06.26 |
-|  8   | API 문서 발표 (합동 스터디)            |                                                              |           | 22.07.03 |
+|  1   | Web Front Basics(HTML, CSS, JS)        | [Mission](https://github.com/24siefil/vanilla-todo-15th/tree/24siefil) | [CodeReview](https://github.com/CEOS-Developers/vanilla-todo-15th/pull/7) | 22.03.20 |
+|  2   | React Basic & Hooks                    | [Mission](https://github.com/24siefil/react-todo-15th/tree/24siefil) | [CodeReview](https://github.com/CEOS-Developers/react-todo-15th/pull/9) | 22.03.27 |
+|  3   | TypeScript    | [Mission](https://github.com/24siefil/react-todo-15th/tree/24siefil-2) | [CodeReview](https://github.com/CEOS-Developers/react-todo-15th/pull/19) | 22.04.03 |
+|  4   | React Hooks Advanced | [Mission] | [CodeReview] | 22.04.10 |
+|  5   | Routing & State Management | [Mission] | [CodeReview] | 22.05.08 |
+|  6   | 미정 (1주)                            | [Mission] | [CodeReview] | 22.05.22 |
+|  7   | API Fetching & auth (2주, 합동 스터디) | [Mission] | [CodeReview] | 22.06.26 |
+|  8   | API 문서 발표 (합동 스터디)            | [Mission] | [CodeReview] | 22.07.03 |
 
 <br>
 
