@@ -4,30 +4,25 @@
 
 <br>
 
-# 2. Frontend Study
+# 2. Curriculum
 
-| Week | Topic                                  | Mission                                                      | CodeReview |  Study  |
-| :--: | :-------------------------------------- | :----------------------------------------------------------- | :-------: | :------: |
-|  1   | Web Front Basics(HTML, CSS, JS)        | [Mission](https://github.com/24siefil/vanilla-todo-15th/tree/24siefil) | [CodeReview](https://github.com/CEOS-Developers/vanilla-todo-15th/pull/7) | 22.03.20 |
-|  2   | React Basic & Hooks                    | [Mission](https://github.com/24siefil/react-todo-15th/tree/24siefil) | [CodeReview](https://github.com/CEOS-Developers/react-todo-15th/pull/9) | 22.03.27 |
-|  3   | TypeScript    | [Mission](https://github.com/24siefil/react-todo-15th/tree/24siefil-2) | [CodeReview](https://github.com/CEOS-Developers/react-todo-15th/pull/19) | 22.04.03 |
-|  4   | React Hooks Advanced | [Mission] | [CodeReview] | 22.04.10 |
-|  5   | Routing & State Management | [Mission] | [CodeReview] | 22.05.08 |
-|  6   | 미정 (1주)                            | [Mission] | [CodeReview] | 22.05.22 |
-|  7   | API Fetching & auth (2주, 합동 스터디) | [Mission] | [CodeReview] | 22.06.26 |
-|  8   | API 문서 발표 (합동 스터디)            | [Mission] | [CodeReview] | 22.07.03 |
+**Tech Stack**: `HTML`, `CSS`, `JavaScript`, `React`, `TypeScript`, `Context API`, `Redux`, `Typesafe Actions`, `Redux Toolkit`, `Next.js`
 
-<br>
+| Week | Topic                                  | Mission                                          | Code Review |
+| :--: | :-------------------------------------- | :----------------------------------------------------------: | :-------: |
+|  1   | Web Front Basics      | [Link](https://github.com/24siefil/vanilla-todo-15th/tree/24siefil) | [Link](https://github.com/CEOS-Developers/vanilla-todo-15th/pull/7) |
+|  2   | React Basics & Hooks                   | [Link](https://github.com/24siefil/react-todo-15th/tree/24siefil) | [Link](https://github.com/CEOS-Developers/react-todo-15th/pull/9) |
+|  3   | TypeScript    | [Link](https://github.com/24siefil/react-todo-15th/tree/24siefil-2) | [Link](https://github.com/CEOS-Developers/react-todo-15th/pull/19) |
+|  4   | React Hooks Advanced | [Link](https://github.com/24siefil/react-messenger-15th/tree/24siefil-redux) | [Link](https://github.com/CEOS-Developers/react-messenger-15th/pull/4) |
+|  5   | Routing & State Management | [Link](https://github.com/24siefil/react-messenger-15th/tree/24siefil-redux) | [Link](https://github.com/CEOS-Developers/react-messenger-15th/pull/13) |
+|  6   | Next.js & SSR        | [Link](https://github.com/24siefil/react-blog-15th/tree/24siefil) | [Link](https://github.com/CEOS-Developers/react-blog-15th/pull/10) |
+|  7   | API Fetching & auth (서버 합동) | [Link] | [Link] |
+|  8   | API 문서 발표 (서버 합동)      | [Link] | [Link] |
 
-<br>
 
-<br>
-
----
-
-## 스터디 진행 방식
-
-매주 일요일 오후 7시에 시작하며, 약 1~2시간 정도 진행됩니다.
+<details>
+<summary>스터디 진행 방식</summary>
+<div markdown="1">
 
 ### 코드 리뷰
 
@@ -68,7 +63,7 @@
 2. 차주 과제 공지에는 과제 수행을 위한 간단한 설명과 과제 제출을 위한 Repository 링크가 공개됩니다.
 3. 그후 과제를 시작해 주시면 됩니다.
 
-## 미션(과제) 수행 방법
+### 미션(과제) 수행 방법
 
 1. 매주 미션을 진행하기 위한 **Repository**는 **일요일 스터디 시간**에 공유됩니다.
 2. **미션 목표**를 염두에 두고, **필수 사항**과 **선택 사항**을 구현합니다.
@@ -84,3 +79,5 @@
    - 코드리뷰는 꼭 파트너만 할 필요는 없습니다. 원하신다면 다른 분의 PR에 댓글을 달아 주셔도 됩니다!
    - 운영진도 코드리뷰를 해 드리고, 운영진의 코드에 의견을 달아 주시는 것도 환영입니다.
 
+</div>
+</details>
