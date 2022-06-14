@@ -1,6 +1,6 @@
 # 1. About
 
-본 레포지토리는 [연세대, 서강대, 이화여대, 홍익대 연합 IT 창업학회 CEOS](https://www.ceos.or.kr/) 활동간 진행한 스터디 결과물을 정리한 것입니다. (2022.03 ~ 2022.08, 6개월)
+본 레포지토리는 [서강대, 연세대, 이화여대, 홍익대 연합 IT 창업학회 CEOS](https://www.ceos.or.kr/) 활동간 진행한 스터디 결과물을 정리한 것입니다. (2022.03 ~ 2022.08, 6개월)
 
 <br>
 
@@ -18,6 +18,11 @@
 |  6   | Next.js & SSR        | [Link](https://github.com/24siefil/react-blog-15th/tree/24siefil) | [Link](https://github.com/CEOS-Developers/react-blog-15th/pull/10) |
 |  7   | API Fetching & auth (서버 합동) | [Link] | [Link] |
 |  8   | API 문서 발표 (서버 합동)      | [Link] | [Link] |
+
+* 6주차 특강 - [DevOps with Agile](https://orchid-peacock-e6f.notion.site/7-DevOps-with-Agile-84ee7cf2e3504e28a560497244a0f874) 
+
+* 7주차 특강 - 벤처캐피탈리스트 입장에서 재구성한 스타트업 생태계 및 Q&A
+
 
 
 <details>
