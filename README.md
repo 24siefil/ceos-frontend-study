@@ -19,9 +19,9 @@
 |  7   | API Fetching & auth (서버 합동) | [Link] | [Link] |
 |  8   | API 문서 발표 (서버 합동)      | [Link] | [Link] |
 
-* 6주차 특강 - [DevOps with Agile](https://orchid-peacock-e6f.notion.site/7-DevOps-with-Agile-84ee7cf2e3504e28a560497244a0f874) 
+* 6주차 특강 - 벤처캐피탈리스트 입장에서 재구성한 스타트업 생태계 및 Q&A
 
-* 7주차 특강 - 벤처캐피탈리스트 입장에서 재구성한 스타트업 생태계 및 Q&A
+* 7주차 특강 - [DevOps with Agile](https://orchid-peacock-e6f.notion.site/7-DevOps-with-Agile-84ee7cf2e3504e28a560497244a0f874) 
 
 
 
