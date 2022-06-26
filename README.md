@@ -16,7 +16,7 @@
 |  4   | React Hooks Advanced | [Link](https://github.com/24siefil/react-messenger-15th/tree/24siefil-redux) | [Link](https://github.com/CEOS-Developers/react-messenger-15th/pull/4) |
 |  5   | Routing & State Management | [Link](https://github.com/24siefil/react-messenger-15th/tree/24siefil-redux) | [Link](https://github.com/CEOS-Developers/react-messenger-15th/pull/13) |
 |  6   | Next.js & SSR        | [Link](https://github.com/24siefil/react-blog-15th/tree/24siefil) | [Link](https://github.com/CEOS-Developers/react-blog-15th/pull/10) |
-|  7   | API Fetching & auth (서버 합동) | [Link] | [Link] |
+|  7   | API Fetching & auth (서버 합동) | [Link](https://github.com/24siefil/react-vote-15th/blob/main/README.md) | - |
 |  8   | API 문서 발표 (서버 합동)      | [Link] | [Link] |
 
 * 6주차 특강 - 벤처캐피탈리스트 입장에서 재구성한 스타트업 생태계 및 Q&A
