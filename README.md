@@ -6,7 +6,7 @@
 
 # 2. Curriculum
 
-**Tech Stack**: `HTML`, `CSS`, `JavaScript`, `React`, `TypeScript`, `Context API`, `Redux`, `Typesafe Actions`, `Redux Toolkit`, `Next.js`, `Redux Toolkit`, `Redux Thunk`, `Axios`, `Styled-components`, `Global Theming`
+**Tech Stack**: `HTML`, `CSS`, `JavaScript`, `React`, `TypeScript`, `Context API`, `Redux`, `Typesafe Actions`, `Redux Toolkit`, `Next.js`, `Redux Thunk`, `Axios`, `Styled-components`, `Global Theming`
 
 | Week | Topic                                  | Mission                                          | Code Review |
 | :--: | :-------------------------------------- | :----------------------------------------------------------: | :-------: |
