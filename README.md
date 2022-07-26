@@ -8,22 +8,20 @@
 
 **Tech Stack**: `HTML`, `CSS`, `JavaScript`, `React`, `Styled-components`, `TypeScript`, `Context API`, `Redux`, `Typesafe-actions`, `Redux Toolkit`, `Next.js`, `Axios`, `Redux Thunk`
 
-| Week | Topic                                  | Mission                                          | Code Review |
-| :--: | :-------------------------------------- | :----------------------------------------------------------: | :-------: |
-|  1   | Web Front Basics      | [Link](https://github.com/24siefil/vanilla-todo-15th/tree/24siefil) | [Link](https://github.com/CEOS-Developers/vanilla-todo-15th/pull/7) |
-|  2   | React Basics & Hooks                   | [Link](https://github.com/24siefil/react-todo-15th/tree/24siefil) | [Link](https://github.com/CEOS-Developers/react-todo-15th/pull/9) |
-|  3   | TypeScript    | [Link](https://github.com/24siefil/react-todo-15th/tree/24siefil-2) | [Link](https://github.com/CEOS-Developers/react-todo-15th/pull/19) |
-|  4   | React Hooks Advanced | [Link](https://github.com/24siefil/react-messenger-15th/tree/24siefil-redux) | [Link](https://github.com/CEOS-Developers/react-messenger-15th/pull/4) |
-|  5   | Routing & State Management | [Link](https://github.com/24siefil/react-messenger-15th/tree/24siefil-redux) | [Link](https://github.com/CEOS-Developers/react-messenger-15th/pull/13) |
-|  6   | Next.js & SSR        | [Link](https://github.com/24siefil/react-blog-15th/tree/24siefil) | [Link](https://github.com/CEOS-Developers/react-blog-15th/pull/10) |
-|  7   | API Fetching & auth (서버 합동) | [Link](https://github.com/24siefil/react-vote-15th/blob/main/README.md) | - |
-|  8   | API 문서 발표 (서버 합동)      | - | - |
+| Week | Topic                           |                           Mission                            |                         Code Review                          |
+| :--: | :------------------------------ | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|  1   | Web Front Basics                | [Link](https://github.com/24siefil/vanilla-todo-15th/tree/24siefil) | [Link](https://github.com/CEOS-Developers/vanilla-todo-15th/pull/7) |
+|  2   | React Basics & Hooks            | [Link](https://github.com/24siefil/react-todo-15th/tree/24siefil) | [Link](https://github.com/CEOS-Developers/react-todo-15th/pull/9) |
+|  3   | TypeScript                      | [Link](https://github.com/24siefil/react-todo-15th/tree/24siefil-2) | [Link](https://github.com/CEOS-Developers/react-todo-15th/pull/19) |
+|  4   | React Hooks Advanced            | [Link](https://github.com/24siefil/react-messenger-15th/tree/24siefil-redux) | [Link](https://github.com/CEOS-Developers/react-messenger-15th/pull/4) |
+|  5   | Routing & State Management      | [Link](https://github.com/24siefil/react-messenger-15th/tree/24siefil-redux) | [Link](https://github.com/CEOS-Developers/react-messenger-15th/pull/13) |
+|  6   | Next.js & SSR                   | [Link](https://github.com/24siefil/react-blog-15th/tree/24siefil) | [Link](https://github.com/CEOS-Developers/react-blog-15th/pull/10) |
+|  7   | API Fetching & auth (서버 합동) | [Link](https://github.com/24siefil/react-vote-15th/blob/main/README.md) |                              -                               |
+|  8   | API 문서 발표 (서버 합동)       |                              -                               |                              -                               |
 
 * 6주차 특강 - 벤처캐피탈리스트 입장에서 재구성한 스타트업 생태계 및 Q&A
 
 * 7주차 특강 - [DevOps with Agile](https://orchid-peacock-e6f.notion.site/7-DevOps-with-Agile-84ee7cf2e3504e28a560497244a0f874) 
-
-
 
 <details>
 <summary>스터디 진행 방식</summary>
@@ -86,3 +84,25 @@
 
 </div>
 </details>
+
+<br>
+
+# 3. CEOS 운영진 선출 투표 서비스
+
+### 기여사항
+
+https://velog.io/@24siefil/ceos-vote
+
+### Deployment
+
+https://react-vote-15th-pokedon.vercel.app/
+
+### Source Code
+
+https://github.com/24siefil/react-vote-15th/tree/main
+
+### API 명세
+
+https://documenter.getpostman.com/view/18320343/UzBjs7uf
+
+
